@@ -1,2 +1,2 @@
 # QCM-coating-analysis
-QCM polymer coating performance and reusability
+Reusability analysis of polymer-coated QCM sensors using synthetic data
