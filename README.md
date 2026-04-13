@@ -1,2 +1,2 @@
-# learning_notebook
-Reusability analysis of polymer-coated QCM sensors using synthetic data
+# QCM-coating-analysis
+QCM polymer coating performance and reusability
